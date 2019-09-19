@@ -1,0 +1,16 @@
+{
+  "name": "demux-proto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "demux": "^4.0.0",
+    "demux-eos": "^4.0.1",
+    "express": "^4.17.1"
+  }
+}
